@@ -1,0 +1,46 @@
+* {
+    margin: auto;
+    position: relative;
+    align-items: center; 
+    padding: 0 0;
+   }
+   label {
+     display: block;
+     margin: 0 5%;
+   }
+   h1 {
+     display: block;
+     margin: 10px 43%;
+     position: relative;
+   }
+   input {
+     width: 90%;
+     border-radius: 5px;
+     height: 35px;
+     margin: 5px 5%;
+   }
+   .button-up {
+     height: 30px;
+     width: 50px;
+     border-radius: 5px;
+     background-color: greenyellow;
+     left: 92%;
+   }
+   
+   table, th, td {
+     border: 1px solid;
+   }
+   table {
+     width: 90%;
+     border-collapse: collapse;
+     border-radius: 5px;
+   }
+   th {
+     height: 30px;
+   }
+   td {
+     text-align: center;
+   }
+   .button-down{
+     padding: 10px 20px ;
+   }
